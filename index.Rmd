@@ -1,5 +1,6 @@
 ---
-title: "Tutorial Grafica de Radar"
+title: "Tutorial Gráfica de Radar"
+subtitle: "Para visualizar datos de actividad de especies 🦨🦡 "
 author: Gabriel Andrade-Ponce
 ---
 
@@ -251,8 +252,8 @@ Ahora agregamos nuestra silueta al gráfico:
 ```{r}
 plot2+ add_phylopic(conepatus_pic, # Silueta guardada
                     alpha = 1, # Ttransparencia
-                    x = 0.8, y = 0.8, # Coordenadas
-                    ysize = 0.15) # Tamaño
+                    x = 0.32, y = 0.85, # Coordenadas
+                    ysize = 0.11) # Tamaño
 ```
 
 !!!!Listo¡¡¡¡

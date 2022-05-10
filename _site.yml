@@ -1,7 +1,7 @@
 name: "Tutorial gráfico de Radar"
 output_dir: docs
 navbar:
-  title: "Haciendo un gráfico de radar con ggplot"
+  title: "Gráfico de radar con ggplot"
   type: inverse
   left:
     - text: "Tuorial"
@@ -17,3 +17,6 @@ output:
   html_document:
     theme: yeti
     highlight: tango
+    toc: TRUE
+    toc_float: true
+    toc_depth: 2
