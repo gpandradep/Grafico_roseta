@@ -1,0 +1,17 @@
+name: "Tutorial gráfico de Roseta"
+output_dir: docs
+navbar:
+  title: "Haciendo un gráfico de Roseta con ggplot"
+  type: inverse
+  left:
+    - text: "Tuorial"
+      href: index.html
+  right:
+    - href: https://github.com/gpandradep
+      icon: fa-github
+    - href: https://twitter.com/Gatorco_AP
+      icon: fa-twitter
+output:
+  html_document:
+    theme: yeti
+    highlight: tango
