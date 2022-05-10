@@ -11,6 +11,8 @@ navbar:
       icon: fa-github
     - href: https://twitter.com/Gatorco_AP
       icon: fa-twitter
+    - href: https://www.researchgate.net/profile/Gabriel-Andrade-Ponce
+      icon: fa-researchgate
 output:
   html_document:
     theme: yeti
