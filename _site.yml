@@ -1,7 +1,7 @@
-name: "Tutorial gráfico de Roseta"
+name: "Tutorial gráfico de Radar"
 output_dir: docs
 navbar:
-  title: "Haciendo un gráfico de Roseta con ggplot"
+  title: "Haciendo un gráfico de radar con ggplot"
   type: inverse
   left:
     - text: "Tuorial"
